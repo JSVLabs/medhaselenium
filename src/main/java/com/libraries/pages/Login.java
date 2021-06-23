@@ -60,8 +60,8 @@ public class Login extends Core {
         Reporter.assertElementDisplay(help,"Validate Home page is displayed ","true",2,true);
     }
 
-    public void verifyThis(){
-        
+    public void verifyTest(){
+
     }
 
 
