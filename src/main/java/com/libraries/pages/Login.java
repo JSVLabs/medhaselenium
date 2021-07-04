@@ -64,6 +64,10 @@ public class Login extends Core {
         
     }
 
+    public void verifymaster(){
+
+    }
+
 
 
 }
